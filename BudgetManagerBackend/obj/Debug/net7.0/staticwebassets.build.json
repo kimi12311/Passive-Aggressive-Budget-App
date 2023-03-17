@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "68Qr0gABXz/jSUgtu6rMRD44mAdWWTmVEhRNgcBujYk=",
+  "Source": "BudgetManagerBackend",
+  "BasePath": "_content/BudgetManagerBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
